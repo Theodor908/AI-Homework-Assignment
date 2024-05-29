@@ -1,0 +1,14 @@
+C:\Users\vasil\Desktop\HomeworkAssignmentAI\obj\Debug\net8.0\HomeworkAssignmentAI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasil\Desktop\HomeworkAssignmentAI\obj\Debug\net8.0\HomeworkAssignmentAI.AssemblyInfoInputs.cache
+C:\Users\vasil\Desktop\HomeworkAssignmentAI\obj\Debug\net8.0\HomeworkAssignmentAI.AssemblyInfo.cs
+C:\Users\vasil\Desktop\HomeworkAssignmentAI\obj\Debug\net8.0\HomeworkAssignmentAI.csproj.CoreCompileInputs.cache
+C:\Users\vasil\Desktop\HomeworkAssignmentAI\bin\Debug\net8.0\HomeworkAssignmentAI.exe
+C:\Users\vasil\Desktop\HomeworkAssignmentAI\bin\Debug\net8.0\HomeworkAssignmentAI.deps.json
+C:\Users\vasil\Desktop\HomeworkAssignmentAI\bin\Debug\net8.0\HomeworkAssignmentAI.runtimeconfig.json
+C:\Users\vasil\Desktop\HomeworkAssignmentAI\bin\Debug\net8.0\HomeworkAssignmentAI.dll
+C:\Users\vasil\Desktop\HomeworkAssignmentAI\bin\Debug\net8.0\HomeworkAssignmentAI.pdb
+C:\Users\vasil\Desktop\HomeworkAssignmentAI\obj\Debug\net8.0\HomeworkAssignmentAI.dll
+C:\Users\vasil\Desktop\HomeworkAssignmentAI\obj\Debug\net8.0\refint\HomeworkAssignmentAI.dll
+C:\Users\vasil\Desktop\HomeworkAssignmentAI\obj\Debug\net8.0\HomeworkAssignmentAI.pdb
+C:\Users\vasil\Desktop\HomeworkAssignmentAI\obj\Debug\net8.0\HomeworkAssignmentAI.genruntimeconfig.cache
+C:\Users\vasil\Desktop\HomeworkAssignmentAI\obj\Debug\net8.0\ref\HomeworkAssignmentAI.dll

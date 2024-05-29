@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vasil\\Desktop\\HomeworkAssignmentAI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C3F5A99-8162-405C-81D4-3E34EBBC0DBB}|HomeworkAssignmentAI.csproj|C:\\Users\\vasil\\Desktop\\HomeworkAssignmentAI\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C3F5A99-8162-405C-81D4-3E34EBBC0DBB}|HomeworkAssignmentAI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C3F5A99-8162-405C-81D4-3E34EBBC0DBB}|HomeworkAssignmentAI.csproj|c:\\users\\vasil\\desktop\\homeworkassignmentai\\astar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C3F5A99-8162-405C-81D4-3E34EBBC0DBB}|HomeworkAssignmentAI.csproj|solutionrelative:astar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C3F5A99-8162-405C-81D4-3E34EBBC0DBB}|HomeworkAssignmentAI.csproj|c:\\users\\vasil\\desktop\\homeworkassignmentai\\depthfirstsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C3F5A99-8162-405C-81D4-3E34EBBC0DBB}|HomeworkAssignmentAI.csproj|solutionrelative:depthfirstsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C3F5A99-8162-405C-81D4-3E34EBBC0DBB}|HomeworkAssignmentAI.csproj|c:\\users\\vasil\\desktop\\homeworkassignmentai\\leastcostsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C3F5A99-8162-405C-81D4-3E34EBBC0DBB}|HomeworkAssignmentAI.csproj|solutionrelative:leastcostsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C3F5A99-8162-405C-81D4-3E34EBBC0DBB}|HomeworkAssignmentAI.csproj|c:\\users\\vasil\\desktop\\homeworkassignmentai\\itspgraphtraversalalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C3F5A99-8162-405C-81D4-3E34EBBC0DBB}|HomeworkAssignmentAI.csproj|solutionrelative:itspgraphtraversalalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C3F5A99-8162-405C-81D4-3E34EBBC0DBB}|HomeworkAssignmentAI.csproj|c:\\users\\vasil\\desktop\\homeworkassignmentai\\priorityqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C3F5A99-8162-405C-81D4-3E34EBBC0DBB}|HomeworkAssignmentAI.csproj|solutionrelative:priorityqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C3F5A99-8162-405C-81D4-3E34EBBC0DBB}|HomeworkAssignmentAI.csproj|c:\\users\\vasil\\desktop\\homeworkassignmentai\\manualmatrixgraphbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C3F5A99-8162-405C-81D4-3E34EBBC0DBB}|HomeworkAssignmentAI.csproj|solutionrelative:manualmatrixgraphbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C3F5A99-8162-405C-81D4-3E34EBBC0DBB}|HomeworkAssignmentAI.csproj|c:\\users\\vasil\\desktop\\homeworkassignmentai\\randommatrixgraphbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C3F5A99-8162-405C-81D4-3E34EBBC0DBB}|HomeworkAssignmentAI.csproj|solutionrelative:randommatrixgraphbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C3F5A99-8162-405C-81D4-3E34EBBC0DBB}|HomeworkAssignmentAI.csproj|c:\\users\\vasil\\desktop\\homeworkassignmentai\\igraphbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C3F5A99-8162-405C-81D4-3E34EBBC0DBB}|HomeworkAssignmentAI.csproj|solutionrelative:igraphbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C3F5A99-8162-405C-81D4-3E34EBBC0DBB}|HomeworkAssignmentAI.csproj|c:\\users\\vasil\\desktop\\homeworkassignmentai\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C3F5A99-8162-405C-81D4-3E34EBBC0DBB}|HomeworkAssignmentAI.csproj|solutionrelative:state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C3F5A99-8162-405C-81D4-3E34EBBC0DBB}|HomeworkAssignmentAI.csproj|C:\\Users\\vasil\\Desktop\\HomeworkAssignmentAI\\travelingsalesmanproblem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C3F5A99-8162-405C-81D4-3E34EBBC0DBB}|HomeworkAssignmentAI.csproj|solutionrelative:travelingsalesmanproblem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C3F5A99-8162-405C-81D4-3E34EBBC0DBB}|HomeworkAssignmentAI.csproj|c:\\users\\vasil\\desktop\\homeworkassignmentai\\displayresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C3F5A99-8162-405C-81D4-3E34EBBC0DBB}|HomeworkAssignmentAI.csproj|solutionrelative:displayresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C3F5A99-8162-405C-81D4-3E34EBBC0DBB}|HomeworkAssignmentAI.csproj|c:\\users\\vasil\\desktop\\homeworkassignmentai\\idisplayresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C3F5A99-8162-405C-81D4-3E34EBBC0DBB}|HomeworkAssignmentAI.csproj|solutionrelative:idisplayresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C3F5A99-8162-405C-81D4-3E34EBBC0DBB}|HomeworkAssignmentAI.csproj|c:\\users\\vasil\\desktop\\homeworkassignmentai\\igraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C3F5A99-8162-405C-81D4-3E34EBBC0DBB}|HomeworkAssignmentAI.csproj|solutionrelative:igraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C3F5A99-8162-405C-81D4-3E34EBBC0DBB}|HomeworkAssignmentAI.csproj|c:\\users\\vasil\\desktop\\homeworkassignmentai\\adjacencymatrixgraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C3F5A99-8162-405C-81D4-3E34EBBC0DBB}|HomeworkAssignmentAI.csproj|solutionrelative:adjacencymatrixgraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 169,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ManualMatrixGraphBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\vasil\\Desktop\\HomeworkAssignmentAI\\ManualMatrixGraphBuilder.cs",
+              "RelativeDocumentMoniker": "ManualMatrixGraphBuilder.cs",
+              "ToolTip": "C:\\Users\\vasil\\Desktop\\HomeworkAssignmentAI\\ManualMatrixGraphBuilder.cs",
+              "RelativeToolTip": "ManualMatrixGraphBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T18:33:38.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DisplayResults.cs",
+              "DocumentMoniker": "C:\\Users\\vasil\\Desktop\\HomeworkAssignmentAI\\DisplayResults.cs",
+              "RelativeDocumentMoniker": "DisplayResults.cs",
+              "ToolTip": "C:\\Users\\vasil\\Desktop\\HomeworkAssignmentAI\\DisplayResults.cs",
+              "RelativeToolTip": "DisplayResults.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T14:27:54.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IDisplayResults.cs",
+              "DocumentMoniker": "C:\\Users\\vasil\\Desktop\\HomeworkAssignmentAI\\IDisplayResults.cs",
+              "RelativeDocumentMoniker": "IDisplayResults.cs",
+              "ToolTip": "C:\\Users\\vasil\\Desktop\\HomeworkAssignmentAI\\IDisplayResults.cs",
+              "RelativeToolTip": "IDisplayResults.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T14:27:09.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PriorityQueue.cs",
+              "DocumentMoniker": "C:\\Users\\vasil\\Desktop\\HomeworkAssignmentAI\\PriorityQueue.cs",
+              "RelativeDocumentMoniker": "PriorityQueue.cs",
+              "ToolTip": "C:\\Users\\vasil\\Desktop\\HomeworkAssignmentAI\\PriorityQueue.cs",
+              "RelativeToolTip": "PriorityQueue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T14:20:09.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IGraph.cs",
+              "DocumentMoniker": "C:\\Users\\vasil\\Desktop\\HomeworkAssignmentAI\\IGraph.cs",
+              "RelativeDocumentMoniker": "IGraph.cs",
+              "ToolTip": "C:\\Users\\vasil\\Desktop\\HomeworkAssignmentAI\\IGraph.cs",
+              "RelativeToolTip": "IGraph.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T10:40:02.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RandomMatrixGraphBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\vasil\\Desktop\\HomeworkAssignmentAI\\RandomMatrixGraphBuilder.cs",
+              "RelativeDocumentMoniker": "RandomMatrixGraphBuilder.cs",
+              "ToolTip": "C:\\Users\\vasil\\Desktop\\HomeworkAssignmentAI\\RandomMatrixGraphBuilder.cs",
+              "RelativeToolTip": "RandomMatrixGraphBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T10:32:54.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IGraphBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\vasil\\Desktop\\HomeworkAssignmentAI\\IGraphBuilder.cs",
+              "RelativeDocumentMoniker": "IGraphBuilder.cs",
+              "ToolTip": "C:\\Users\\vasil\\Desktop\\HomeworkAssignmentAI\\IGraphBuilder.cs",
+              "RelativeToolTip": "IGraphBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T09:36:52.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AdjacencyMatrixGraph.cs",
+              "DocumentMoniker": "C:\\Users\\vasil\\Desktop\\HomeworkAssignmentAI\\AdjacencyMatrixGraph.cs",
+              "RelativeDocumentMoniker": "AdjacencyMatrixGraph.cs",
+              "ToolTip": "C:\\Users\\vasil\\Desktop\\HomeworkAssignmentAI\\AdjacencyMatrixGraph.cs",
+              "RelativeToolTip": "AdjacencyMatrixGraph.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T09:35:07.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "State.cs",
+              "DocumentMoniker": "C:\\Users\\vasil\\Desktop\\HomeworkAssignmentAI\\State.cs",
+              "RelativeDocumentMoniker": "State.cs",
+              "ToolTip": "C:\\Users\\vasil\\Desktop\\HomeworkAssignmentAI\\State.cs",
+              "RelativeToolTip": "State.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T09:20:56.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LeastCostSearch.cs",
+              "DocumentMoniker": "C:\\Users\\vasil\\Desktop\\HomeworkAssignmentAI\\LeastCostSearch.cs",
+              "RelativeDocumentMoniker": "LeastCostSearch.cs",
+              "ToolTip": "C:\\Users\\vasil\\Desktop\\HomeworkAssignmentAI\\LeastCostSearch.cs",
+              "RelativeToolTip": "LeastCostSearch.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBwAAAB7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T09:20:34.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepthFirstSearch.cs",
+              "DocumentMoniker": "C:\\Users\\vasil\\Desktop\\HomeworkAssignmentAI\\DepthFirstSearch.cs",
+              "RelativeDocumentMoniker": "DepthFirstSearch.cs",
+              "ToolTip": "C:\\Users\\vasil\\Desktop\\HomeworkAssignmentAI\\DepthFirstSearch.cs",
+              "RelativeToolTip": "DepthFirstSearch.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACAAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T09:09:30.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AStar.cs",
+              "DocumentMoniker": "C:\\Users\\vasil\\Desktop\\HomeworkAssignmentAI\\AStar.cs",
+              "RelativeDocumentMoniker": "AStar.cs",
+              "ToolTip": "C:\\Users\\vasil\\Desktop\\HomeworkAssignmentAI\\AStar.cs",
+              "RelativeToolTip": "AStar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T08:47:00.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITSPGraphTraversalAlgorithm.cs",
+              "DocumentMoniker": "C:\\Users\\vasil\\Desktop\\HomeworkAssignmentAI\\ITSPGraphTraversalAlgorithm.cs",
+              "RelativeDocumentMoniker": "ITSPGraphTraversalAlgorithm.cs",
+              "ToolTip": "C:\\Users\\vasil\\Desktop\\HomeworkAssignmentAI\\ITSPGraphTraversalAlgorithm.cs",
+              "RelativeToolTip": "ITSPGraphTraversalAlgorithm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T19:55:44.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TravelingSalesmanProblem.cs",
+              "DocumentMoniker": "C:\\Users\\vasil\\Desktop\\HomeworkAssignmentAI\\TravelingSalesmanProblem.cs",
+              "RelativeDocumentMoniker": "TravelingSalesmanProblem.cs",
+              "ToolTip": "C:\\Users\\vasil\\Desktop\\HomeworkAssignmentAI\\TravelingSalesmanProblem.cs",
+              "RelativeToolTip": "TravelingSalesmanProblem.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T08:49:13.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vasil\\Desktop\\HomeworkAssignmentAI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\vasil\\Desktop\\HomeworkAssignmentAI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAByAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T19:39:03.88Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
