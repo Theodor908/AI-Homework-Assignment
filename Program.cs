@@ -11,6 +11,31 @@ namespace HomeworkAssignmentAI
         // Main method.
         public static void Main(string[] args)
         {
+            // Geeks for Geeks example.
+            IGraphBuilder manualMatrixGraphBuilder0 = new ManualMatrixGraphBuilder(new int[,] {
+                 { 0, 10, 15, 20 },
+                 { 10, 0, 35, 25 },
+                 { 15, 35, 0, 30 },
+                 { 20, 25, 30, 45 }
+            });
+
+            /*
+                Algorithm: Depth-First Search
+                Path:
+                (0, 2) , (2, 3) , (3, 1) , (1, 0) Cost: 80
+                Run Time: 1 ms
+
+                Algorithm: Least-Cost Search
+                Path:
+                (0, 1) , (1, 3) , (3, 2) , (2, 0) Cost: 80
+                Run Time: 1 ms
+
+                Algorithm: A* Search
+                Path:
+                (0, 1) , (1, 3) , (3, 2) , (2, 0) Cost: 80
+                Run Time: 11 ms 
+             */
+
             // Structure with real life distances between cities in Europe (I got the distances from a website).
             IGraphBuilder manualMatrixGraphBuilder1 = new ManualMatrixGraphBuilder(new int[,] {
                 {0, 250, 350, 450, 600, 700, 800, 900, 1000, 1100},
@@ -22,9 +47,28 @@ namespace HomeworkAssignmentAI
                 {800, 600, 450, 350, 200, 100, 0, 100, 200, 300},
                 {900, 700, 550, 450, 300, 200, 100, 0, 100, 200},
                 {1000, 800, 650, 550, 400, 300, 200, 100, 0, 100},
-                {1100, 900, 750, 650, 500, 400, 300, 200, 100, 0} }); 
+                {1100, 900, 750, 650, 500, 400, 300, 200, 100, 0}
+            });
 
-            // Complex structure with random distances between cities. (I tried to make it as complex as possible)
+
+            /*
+                Algorithm: Depth-First Search
+                Path:
+                (0, 9) , (9, 8) , (8, 7) , (7, 6) , (6, 5) , (5, 4) , (4, 3) , (3, 2) , (2, 1) , (1, 0) Cost: 2250
+                Run Time: 210 ms
+
+                Algorithm: Least-Cost Search
+                Path:
+                (0, 1) , (1, 2) , (2, 3) , (3, 4) , (4, 5) , (5, 6) , (6, 7) , (7, 8) , (8, 9) , (9, 0) Cost: 2250
+                Run Time: 1061 ms
+
+                Algorithm: A* Search
+                Path:
+                (0, 1) , (1, 2) , (2, 3) , (3, 4) , (4, 5) , (5, 6) , (6, 7) , (7, 8) , (8, 9) , (9, 0) Cost: 2250
+                Run Time: 34 ms
+             */
+
+            // Complex structure with random distances between cities. (I tried to make it as complex as possible such that I don't wait a lot of time for the results)
             IGraphBuilder manualMatrixGraphBuilder2 = new ManualMatrixGraphBuilder(new int[,] {
                 {0, 2, 9, 10, 1, 11, 15, 8, 6, 14},
                 {2, 0, 7, 12, 3, 13, 5, 9, 4, 16},
@@ -38,6 +82,47 @@ namespace HomeworkAssignmentAI
                 {14, 16, 1, 2, 9, 12, 11, 13, 10, 0} });
 
 
+            /*
+                Algorithm: Depth-First Search
+                Path:
+                (0, 4) , (4, 8) , (8, 7) , (7, 5) , (5, 2) , (2, 9) , (9, 3) , (3, 6) , (6, 1) , (1, 0) Cost: 30
+                Run Time: 214 ms
+
+                Algorithm: Least-Cost Search
+                Path:
+                (0, 4) , (4, 8) , (8, 7) , (7, 5) , (5, 2) , (2, 9) , (9, 3) , (3, 6) , (6, 1) , (1, 0) Cost: 30
+                Run Time: 1080 ms
+
+                Algorithm: A* Search
+                Path:
+                (0, 1) , (1, 6) , (6, 3) , (3, 9) , (9, 2) , (2, 5) , (5, 7) , (7, 8) , (8, 4) , (4, 0) Cost: 30
+                Run Time: 28 ms
+             */
+
+            // This matrix has two paths with the same cost. DFS and LCS could return different paths.
+            IGraphBuilder manualMatrixGraphBuilder3 = new ManualMatrixGraphBuilder(new int[,] {
+                    { 0, 1, 2, 3},
+                    { 1, 0, 3, 4},
+                    { 2, 3, 0, 5},
+                    { 3, 4, 5, 0} 
+            });
+
+            /*
+                Algorithm: Depth-First Search
+                Path:
+                (0, 3) , (3, 2) , (2, 1) , (1, 0) Cost: 12
+                Run Time: 1 ms
+
+                Algorithm: Least-Cost Search
+                Path:
+                (0, 1) , (1, 2) , (2, 3) , (3, 0) Cost: 12
+                Run Time: 1 ms
+
+                Algorithm: A* Search
+                Path:
+                (0, 1) , (1, 2) , (2, 3) , (3, 0) Cost: 12
+                Run Time: 40 ms
+             */
 
             // Random matrix graph builder. Randomly generate the matrix.
             IGraphBuilder randomMatrixGraphBuilder = new RandomMatrixGraphBuilder(10, 1, 100);
@@ -55,7 +140,7 @@ namespace HomeworkAssignmentAI
 
             // Create the Traveling Salesman Problem object and insert the graph builder and algorithms.
             // You can freely interchange the graph builder and algorithms.
-            TravelingSalesmanProblem tsp = new TravelingSalesmanProblem(manualMatrixGraphBuilder1, traversalAlgorithms);
+            TravelingSalesmanProblem tsp = new TravelingSalesmanProblem(manualMatrixGraphBuilder0, traversalAlgorithms);
 
 
             // Select the algorithm and run it.
